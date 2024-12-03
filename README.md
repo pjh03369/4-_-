@@ -46,8 +46,8 @@
 
 ## 9️⃣ 서비스 아키텍쳐
 - 🏗️ 서비스 아키텍쳐
-    <img src=""C:\Users\jh838\OneDrive\바탕 화면\새 폴더\서비스아키텍쳐.png"" alt="서비스아키텍쳐" width="600">
-</details>
+![서비스아키텍쳐](https://github.com/user-attachments/assets/c70fe23b-a75a-4c80-ae1e-ae6c4d88d18f)
+![와이어프레임](https://github.com/user-attachments/assets/8d2f3cf4-2469-4346-be27-60bea26ee6cd)
 
 <br><br>
 
