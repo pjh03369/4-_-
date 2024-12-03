@@ -79,7 +79,7 @@
 ## 6️⃣ 서비스 아키텍쳐
 - 🏗️ 서비스 아키텍쳐
 <br><br>
-![서비스아키텍쳐](https://github.com/user-attachments/assets/c70fe23b-a75a-4c80-ae1e-ae6c4d88d18f)
+![서비스아키텍쳐](https://github.com/user-attachments/assets/29b3800c-2af4-4255-aea2-86f131387b58)
 <br><br>
 - 🖼️ 와이어프레임
 <br><br>
