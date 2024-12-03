@@ -46,6 +46,13 @@
 ## 🔟 프로젝트 파일 구조
 
 ```
+.streamlit
+ ├─📜config.toml
+data
+ ├─📜data_sample.csv
+faiss_index
+ ├─ 📜index.faiss
+ ├─📜index.pkl
 ├── app.py                 # Streamlit 기반의 사용자 인터페이스를 제공하는 파일
 ├── api.py                 # FastAPI 서버와 RAG 모델 연결을 처리하는 파일
 ├── rag.py                 # RAG(검색 및 생성) 모델 로직 정의
