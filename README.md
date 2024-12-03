@@ -45,8 +45,8 @@
 <br><br>
 
 ## 9️⃣ 서비스 아키텍쳐
-<summary>🏗️ 서비스 아키텍쳐</summary>
-    <img src=""C:\Users\jh838\OneDrive\바탕 화면\새 폴더\서비스아키텍쳐.png"" alt="pocorngeek 서비스 아키텍쳐" width="600">
+- 🏗️ 서비스 아키텍쳐
+    <img src=""C:\Users\jh838\OneDrive\바탕 화면\새 폴더\서비스아키텍쳐.png"" alt="서비스아키텍쳐" width="600">
 </details>
 
 <br><br>
