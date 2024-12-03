@@ -46,11 +46,12 @@
 
 ## 9️⃣ 서비스 아키텍쳐
 - 🏗️ 서비스 아키텍쳐
+<br><br>
 ![서비스아키텍쳐](https://github.com/user-attachments/assets/c70fe23b-a75a-4c80-ae1e-ae6c4d88d18f)
-</details>
+<br><br>
 - 🖼️ 와이어프레임
+<br><br>
 ![와이어프레임](https://github.com/user-attachments/assets/8d2f3cf4-2469-4346-be27-60bea26ee6cd)
-</details>
 
 <br><br>
 
