@@ -48,15 +48,13 @@
 🖥️ 프론트엔드
 - Streamlit
 - Python
-<br><br>
-📀 백엔드
+<br>📀 백엔드
 - jhgan/ko-sbert-nli
 - Python
 - 구글 Gemini
 - API(무신사)
 - ngrok
-<br><br>
-💬 협업도구
+- <br>💬 협업도구
 - GitHub
 - Slack
 - Notion
